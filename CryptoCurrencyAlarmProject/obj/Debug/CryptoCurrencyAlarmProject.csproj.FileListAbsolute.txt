@@ -1,0 +1,15 @@
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCurrencyAlarmProject.csproj.AssemblyReference.cache
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCurrencyAlarmProject.Properties.Resources.resources
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCurrencyAlarmProject.csproj.GenerateResource.cache
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCurrencyAlarmProject.csproj.CoreCompileInputs.cache
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCurrencyAlarmProject.Form1.resources
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\bin\Debug\CryptoCurrencyAlarmProject.exe.config
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\bin\Debug\CryptoCurrencyAlarmProject.exe
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\bin\Debug\CryptoCurrencyAlarmProject.pdb
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCu.7B9E2A57.Up2Date
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCurrencyAlarmProject.exe
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\obj\Debug\CryptoCurrencyAlarmProject.pdb
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\bin\Debug\websocket-sharp.dll
+C:\Users\Praetorian\source\repos\CryptoCurrencyAlarmProject\CryptoCurrencyAlarmProject\bin\Debug\websocket-sharp.xml
