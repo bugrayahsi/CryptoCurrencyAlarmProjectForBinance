@@ -90,6 +90,7 @@ namespace CryptoCurrencyAlarmProject
            string rmv = RemoveAlarmTextBox.Text;
            a1 = functions.RemoveAlarm(a1, int.Parse(rmv, CultureInfo.InvariantCulture));
            a1 = functions.IdFixer(a1);
+           showActiveAlarmsRichTextBox.Text = functions.ShowActiveAlarms(a1);
         }
     }
 }
