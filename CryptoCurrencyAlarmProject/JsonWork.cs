@@ -18,6 +18,7 @@ namespace CryptoCurrencyAlarmProject
         }
         public List<AlarmTemplate> readJsonData()
         {
+            CreateJson();
             string readAlarms = File.ReadAllText(path);
             List<AlarmTemplate> a1 = JsonConvert.DeserializeObject<List<AlarmTemplate>>(readAlarms);         
             return a1;

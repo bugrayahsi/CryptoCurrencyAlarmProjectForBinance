@@ -44,11 +44,11 @@ namespace CryptoCurrencyAlarmProject
             {
                 if (a2.PairName.ToUpper()+"USDT" == pair)
                 {
-                    if (double.Parse(a2.UpperAlarm, CultureInfo.InvariantCulture) <= double.Parse(currentPrice, CultureInfo.InvariantCulture)&& a2.UpperAlarm!="" && a2.UpperAlarm!=null)
+                    if (double.Parse(a2.UpperAlarm, CultureInfo.InvariantCulture) <= double.Parse(currentPrice, CultureInfo.InvariantCulture)&& a2.UpperAlarm!="" && a2.UpperAlarm!=null && a2.UpperAlarm != "0")
                     {
                         return a2.AlarmId;
                     }
-                    else if (double.Parse(a2.LowerAlarm, CultureInfo.InvariantCulture) >= double.Parse(currentPrice, CultureInfo.InvariantCulture)&& a2.LowerAlarm!="" &&a2.LowerAlarm!= null)
+                    else if (double.Parse(a2.LowerAlarm, CultureInfo.InvariantCulture) >= double.Parse(currentPrice, CultureInfo.InvariantCulture)&& a2.LowerAlarm!="" &&a2.LowerAlarm!= null && a2.LowerAlarm != "0")
                     {
                         return a2.AlarmId;
                     }              
