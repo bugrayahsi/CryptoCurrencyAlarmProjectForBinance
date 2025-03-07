@@ -43,10 +43,11 @@ namespace CryptoCurrencyAlarmProject
             functions.AlarmsTextBoxControl(t3);
             alarmTemplate.PairName = pairs.ElementAt(comboBoxPairs.SelectedIndex);
             int holdIndex;
-            if (a1.Count==0 )
+            if (/*a1.Count==0 ||*/ a1 ==null)
             {
                 alarmTemplate.AlarmId = 1;
                 holdIndex = 0;
+                a1 = new List<AlarmTemplate>();
             }
             else 
             {
